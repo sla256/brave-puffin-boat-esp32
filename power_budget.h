@@ -1,0 +1,2 @@
+void handlePowerBudget();
+int getOptimalPowerBudgetTargetW();

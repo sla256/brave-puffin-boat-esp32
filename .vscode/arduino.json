@@ -1,0 +1,7 @@
+{
+    "sketch": "brave-puffin-boat-esp32.ino",
+    "output": "build",
+    "configuration": "PartitionScheme=huge_app,CPUFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:heltec_wifi_kit_32",
+    "port": "/dev/tty.usbserial-0001"
+}

@@ -1,0 +1,7 @@
+{
+    "git.enableSmartCommit": false,
+    "git.suggestSmartCommit": false,
+    "files.associations": {
+        "compare": "cpp"
+    }
+}

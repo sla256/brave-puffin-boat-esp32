@@ -1,0 +1,3 @@
+
+void initHeartbeat();
+void handleHeartbeat();
